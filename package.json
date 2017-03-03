@@ -9,6 +9,6 @@
   "author": "Daniela Borges",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^8.4.0"
+    "hapi": "^10.0.0"
   }
 }
